@@ -1,0 +1,7 @@
+C:\Users\Memonun Tulparı\Documents\C#\Sifreleme_Algoritmasi\Sifreleme_Algoritmasi\bin\Debug\Sifreleme_Algoritmasi.exe.config
+C:\Users\Memonun Tulparı\Documents\C#\Sifreleme_Algoritmasi\Sifreleme_Algoritmasi\bin\Debug\Sifreleme_Algoritmasi.exe
+C:\Users\Memonun Tulparı\Documents\C#\Sifreleme_Algoritmasi\Sifreleme_Algoritmasi\bin\Debug\Sifreleme_Algoritmasi.pdb
+C:\Users\Memonun Tulparı\Documents\C#\Sifreleme_Algoritmasi\Sifreleme_Algoritmasi\obj\Debug\Sifreleme_Algoritmasi.csprojAssemblyReference.cache
+C:\Users\Memonun Tulparı\Documents\C#\Sifreleme_Algoritmasi\Sifreleme_Algoritmasi\obj\Debug\Sifreleme_Algoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\Memonun Tulparı\Documents\C#\Sifreleme_Algoritmasi\Sifreleme_Algoritmasi\obj\Debug\Sifreleme_Algoritmasi.exe
+C:\Users\Memonun Tulparı\Documents\C#\Sifreleme_Algoritmasi\Sifreleme_Algoritmasi\obj\Debug\Sifreleme_Algoritmasi.pdb
